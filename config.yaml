@@ -1,0 +1,12 @@
+global-parameters:
+  sound-speed: 340 # m/s
+  interval : 5 # s
+
+garbage-info:
+  height: 60 # cm
+  lat: 0
+  long: 0
+
+pins: # gpio pin number on board
+  echo: 18 
+  trig: 16 
