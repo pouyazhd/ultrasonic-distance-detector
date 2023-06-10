@@ -10,3 +10,6 @@ garbage-info:
 pins: # gpio pin number on board
   echo: 18 
   trig: 16 
+
+metrics:
+  exporter_port: 8570
