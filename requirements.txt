@@ -1,2 +1,3 @@
 RPi.GPIO
 PyYAML
+prometheus_client
